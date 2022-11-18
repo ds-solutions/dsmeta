@@ -44,12 +44,12 @@ public class Sale {
 		this.id = id;
 	}
 
-	public String getSallerName() {
-		return sallerName;
+	public String getSellerName() {
+		return sellerName;
 	}
 
-	public void setSallerName(String sallerName) {
-		this.sallerName = sallerName;
+	public void setSellerName(String sellerName) {
+		this.sellerName = sellerName;
 	}
 
 	public Integer getVisited() {
